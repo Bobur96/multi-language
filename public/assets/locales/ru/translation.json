@@ -1,0 +1,6 @@
+{
+  "app_title": "Заголовок",
+  "language": "язык",
+  "welcome_message": "Добро пожаловать",
+  "days_since_release": "Разместите это видео на нашем YouTube-канале {{number_of_days}} дней осталось"
+}
